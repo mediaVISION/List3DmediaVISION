@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <color name="transparent">#00000000</color>		<!-- Dec -->
+	<color name="white">#FFFFFFFF</color>			<!-- 255 -->
+	<color name="white_95">#FFF3F3F3</color>		<!-- 243 -->
+	<color name="white_90">#FFE6E6E6</color>		<!-- 230 -->
+	<color name="white_85">#FFD9D9D9</color>		<!-- 217 -->
+	<color name="white_80">#FFCCCCCC</color>		<!-- 204 -->
+	<color name="white_75">#FFC0C0C0</color>		<!-- 192 -->
+	<color name="grey">#FF808080</color>			<!-- 128 -->
+	<color name="black">#FF000000</color>
+	
+	<color name="black_overlay">#66000000</color>
+    <color name="blue">#770000FF</color>
+    <color name="darkgray">#FF222222</color>
+    <color name="darkslategray">#FF2F4F4F</color>
+    
+    <color name="row_alt">@color/darkgray</color>
+    <color name="row_main">@color/black</color>
+	<color name="model_border">@color/darkslategray</color>
+	<color name="model_header">@color/darkgray</color>
+
+    <color name="chinchilla">#FF756661</color>
+    <color name="dove_grey">#FFCEC7B8</color>
+    <color name="ecru">#FFEEE7E0</color>
+    <color name="ivory">#FFF8F4E6</color>
+    <color name="kind_giant">#FF948C75</color>
+    <color name="mighty_slate">#FF556270</color>
+    <color name="poached_ivory">#FFD8D8C0</color>
+    <color name="roots">#FF948979</color>
+    <color name="stone">#FF898880</color>
+    <color name="taupe">#FF504946</color>
+        
+    <color name="chinchilla_translucent">#80756661</color>
+    <color name="dove_grey_translucent">#80CEC7B8</color>
+    <color name="ecru_translucent">#80EEE7E0</color>
+    <color name="ivory_translucent">#80F8F4E6</color>
+    <color name="kind_giant_translucent">#80948C75</color>
+    <color name="mighty_slate_translucent">#80556270</color>
+    <color name="poached_ivory_translucent">#80D8D8C0</color>
+    <color name="roots_translucent">#80948979</color>
+    <color name="stone_translucent">#80898880</color>
+    <color name="taupe_translucent">#80504946</color>
+        
+    <color name="holo_dark_blue">#FF0099CC</color>
+    <color name="holo_dark_green">#FF669900</color>
+    <color name="holo_dark_orange">#FFFF8800</color>
+    <color name="holo_dark_purple">#FF9933CC</color>
+    <color name="holo_dark_red">#FFCC0000</color>
+
+    <color name="holo_dark_blue_translucent">#800099CC</color>
+    <color name="holo_dark_green_translucent">#80669900</color>
+    <color name="holo_dark_orange_translucent">#80FF8800</color>
+    <color name="holo_dark_purple_translucent">#809933CC</color>
+    <color name="holo_dark_red_translucent">#80CC0000</color>
+
+    
+    <color name="holo_blue">#FF33B5E5</color>
+    <color name="holo_green">#FF99CC00</color>
+    <color name="holo_orange">#FFFFBB33</color>
+    <color name="holo_purple">#FFAA66CC</color>
+    <color name="holo_red">#FFFF4444</color>
+    
+    <color name="holo_blue_translucent">#8033B5E5</color>
+    <color name="holo_green_translucent">#8099CC00</color>
+    <color name="holo_orange_translucent">#80FFBB33</color>
+    <color name="holo_purple_translucent">#80AA66CC</color>
+    <color name="holo_red_translucent">#80FF4444</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/glass_overlay_sm"
+    android:padding="10dip" >
+
+    <ImageView
+        android:id="@+id/contact_photo"
+        android:layout_width="48dip"
+        android:layout_height="48dip"
+        android:contentDescription="@string/content_photo"
+        android:src="@drawable/icon" />
+
+    <TextView
+        android:id="@+id/contact_name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/contact_photo"
+        android:paddingBottom="5dip"
+        android:textColor="@color/black"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/contact_number"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/contact_name"
+        android:layout_toRightOf="@id/contact_photo"
+        android:textColor="@color/black_overlay"
+        android:textSize="14sp" />
+
+</RelativeLayout>

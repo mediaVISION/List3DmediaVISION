@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List3D</string>
+
+    <string name="long_text">This is a long text that will make this box big.\nReally big.\nBigger than all the other boxes.\nBiggest of them all.</string>
+
+    <string name="content_icon">icon</string>
+    <string name="content_image">image</string>
+    <string name="content_photo">photo</string>
+
+	<!-- Copied from API Demos strings.xml -->
+    <string name="split_touch_view_description">
+        This activity demonstrates splitting touch events across multiple views
+        within a view group.  Here we have two ListViews within a LinearLayout
+        that has the attribute android:splitMotionEvents set to "true".
+        Try scrolling both lists simultaneously using multiple fingers.
+    </string>
+    <string name="split_touch_view_cheese_toast">Do you have any %1$s?\n%2$s</string>
+</resources>
